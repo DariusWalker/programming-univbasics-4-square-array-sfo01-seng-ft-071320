@@ -1,4 +1,6 @@
 def square_array(array)
-self.map {|num
+array = []
+while array >= 0 
+  puts 
 
 end
